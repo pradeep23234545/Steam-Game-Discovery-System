@@ -1,0 +1,95 @@
+appid,name,developer,publisher,platforms,required_age,categories,genres,steamspy_tags,achievements,positive_ratings,negative_ratings,average_playtime,median_playtime,owners,price,languages
+570,Dota 2,Valve,Valve,windows;mac;linux,0,Multi-player;Online Multi-Player;Co-op,Action;Strategy,MOBA;Strategy;Free to Play,167,1232365,296965,15234,12456,100000000-200000000,0,english;french;german
+730,Counter-Strike: Global Offensive,Valve,Valve,windows;mac;linux,0,Multi-player;Online Multi-Player,Action,FPS;Shooter;Multiplayer,167,2024365,196965,18234,14456,100000000-200000000,0,english;french
+440,Team Fortress 2,Valve,Valve,windows;mac;linux,0,Multi-player;Online Multi-Player,Action,FPS;Shooter;Free to Play,520,456789,89234,8900,5600,50000000-100000000,0,english;french;german
+252950,Rocket League,Psyonix LLC,Psyonix LLC,windows;mac;linux,0,Multi-player;Online Multi-Player,Action;Sports,Racing;Sports;Multiplayer,94,876543,123456,9800,6700,50000000-100000000,0,english
+271590,Grand Theft Auto V,Rockstar North,Rockstar Games,windows,18,Multi-player;Online Multi-Player,Action;Adventure,Open World;Action;Multiplayer,77,567432,234567,8900,4500,10000000-20000000,1499,english
+578080,PLAYERUNKNOWN'S BATTLEGROUNDS,PUBG Corporation,PUBG Corporation,windows,12,Multi-player;Online Multi-Player,Action,Battle Royale;Multiplayer;Shooter,54,654321,345678,6700,3400,10000000-20000000,2499,english
+1172470,Apex Legends,Respawn Entertainment,Electronic Arts,windows,17,Multi-player;Online Multi-Player,Action,Battle Royale;Free to Play;Shooter,86,987654,87654,12000,7800,50000000-100000000,0,english;french;german
+359550,Tom Clancy's Rainbow Six Siege,Ubisoft Montreal,Ubisoft,windows,18,Multi-player;Online Multi-Player,Action,Tactical;Shooter;Multiplayer,149,543210,234567,10500,6200,10000000-20000000,3299,english
+252490,Rust,Facepunch Studios,Facepunch Studios,windows;mac,16,Multi-player;Online Multi-Player,Action;Adventure;Indie,Survival;Multiplayer;Crafting,57,789012,234567,12300,7600,10000000-20000000,3999,english
+292030,The Witcher 3: Wild Hunt,CD PROJEKT RED,CD PROJEKT RED,windows;mac,18,Single-player,RPG;Adventure,RPG;Open World;Fantasy,78,456789,23456,9800,6700,10000000-20000000,2999,english;polish;german
+374320,Dark Souls III,FromSoftware,Bandai Namco Entertainment,windows,16,Single-player;Multi-player,Action;RPG,Action RPG;Difficult;Dark Fantasy,50,345678,89012,6700,4500,5000000-10000000,2499,english
+1091500,Cyberpunk 2077,CD PROJEKT RED,CD PROJEKT RED,windows,18,Single-player,Action;RPG,RPG;Open World;Cyberpunk,100,456789,234567,7800,5200,10000000-20000000,2999,english;polish;german
+105600,Terraria,Re-Logic,Re-Logic,windows;mac;linux,0,Single-player;Multi-player,Action;Adventure;RPG,Indie;2D;Exploration,88,890123,34567,9800,6700,10000000-20000000,399,english
+413150,Stardew Valley,ConcernedApe,ConcernedApe,windows;mac;linux,0,Single-player;Multi-player,RPG;Simulation,Farming;Indie;Relaxing,40,890234,23456,10200,6800,10000000-20000000,1299,english
+367520,Hollow Knight,Team Cherry,Team Cherry,windows;mac;linux,0,Single-player,Action;Adventure;Indie,Platformer;Metroidvania;Indie,63,567890,23456,8900,5600,5000000-10000000,1499,english
+47890,The Elder Scrolls V: Skyrim,Bethesda Game Studios,Bethesda Softworks,windows,18,Single-player,RPG;Adventure,RPG;Open World;Fantasy,75,456789,67890,9800,6700,10000000-20000000,1799,english
+49520,Borderlands 2,Gearbox Software,2K Games,windows;mac;linux,17,Single-player;Multi-player,Action;RPG,Looter Shooter;Co-op;FPS,75,345678,23456,6700,4500,10000000-20000000,999,english
+620,Portal 2,Valve,Valve,windows;mac;linux,0,Single-player;Multi-player,Action;Adventure,Puzzle;Co-op;Comedy,51,456789,12345,6700,4500,10000000-20000000,1199,english
+72850,The Elder Scrolls V: Skyrim Special Edition,Bethesda Game Studios,Bethesda Softworks,windows,18,Single-player,RPG;Adventure,RPG;Open World;Remaster,75,345678,67890,8900,5600,10000000-20000000,2499,english
+289070,Sid Meier's Civilization VI,Firaxis Games,2K,windows;mac;linux,10,Single-player;Multi-player,Strategy,Turn-Based;Strategy;4X,126,345678,89012,12000,7800,10000000-20000000,2999,english
+227300,Euro Truck Simulator 2,SCS Software,SCS Software,windows;mac;linux,0,Single-player;Multi-player,Simulation,Simulation;Driving;Relaxing,86,456789,23456,15000,9800,10000000-20000000,1999,english
+1097150,Fall Guys: Ultimate Knockout,Mediatonic,Devolver Digital,windows,0,Multi-player;Online Multi-Player,Action;Adventure;Indie,Party;Battle Royale;Casual,19,345678,123456,4500,2300,10000000-20000000,0,english
+1085660,Destiny 2,Bungie,Bungie,windows,16,Multi-player;Online Multi-Player,Action;Free to Play,Looter Shooter;Free to Play;MMO,67,345678,123456,8900,5600,20000000-50000000,0,english;french;german
+381210,Dead by Daylight,Behaviour Interactive,Behaviour Interactive,windows,17,Multi-player;Online Multi-Player,Action,Survival Horror;Multiplayer;Asymmetric,123,456789,189012,7800,4500,10000000-20000000,2099,english
+1245620,Elden Ring,FromSoftware,Bandai Namco Entertainment,windows,16,Single-player;Multi-player,Action;RPG,Souls-like;Open World;Dark Fantasy,42,789012,89012,8900,5600,5000000-10000000,5999,english
+1091500,Hades,Supergiant Games,Supergiant Games,windows;mac,0,Single-player,Action;RPG;Indie,Rogue-like;Action RPG;Indie,49,678901,12345,6700,4500,5000000-10000000,2499,english
+990080,Hogwarts Legacy,Avalanche Software,Warner Bros. Games,windows,12,Single-player,Action;RPG;Adventure,Open World;Magic;Harry Potter,86,456789,89012,7800,5200,5000000-10000000,5999,english
+1174180,Red Dead Redemption 2,Rockstar Games,Rockstar Games,windows,18,Single-player;Multi-player,Action;Adventure,Open World;Western;Story Rich,52,567890,67890,9800,6700,5000000-10000000,6499,english
+8930,Sid Meier's Civilization V,Firaxis Games,2K,windows;mac;linux,10,Single-player;Multi-player,Strategy,Turn-Based;Strategy;4X,286,456789,67890,12000,7800,10000000-20000000,2499,english
+400,Portal,Valve,Valve,windows;mac;linux,0,Single-player,Action;Adventure,Puzzle;Classic;Short,10,456789,12345,3400,2300,10000000-20000000,999,english
+22380,Fallout: New Vegas,Obsidian Entertainment,Bethesda Softworks,windows,17,Single-player,Action;RPG,RPG;Post-apocalyptic;Open World,75,345678,34567,8900,5600,5000000-10000000,1299,english
+236390,War Thunder,Gaijin Entertainment,Gaijin Entertainment,windows;mac;linux,0,Multi-player;Online Multi-Player,Action;Free to Play,MMO;Military;Free to Play,81,345678,189012,10500,6700,20000000-50000000,0,english;german;russian
+346110,ARK: Survival Evolved,Studio Wildcard,Studio Wildcard,windows;mac;linux,16,Single-player;Multi-player,Action;Adventure;Indie,Survival;Multiplayer;Dinosaurs,88,456789,234567,12000,7800,10000000-20000000,1999,english
+548430,Deep Rock Galactic,Ghost Ship Games,Coffee Stain Publishing,windows,0,Single-player;Multi-player,Action;Indie,Co-op;FPS;Dwarves,100,678901,12345,7800,5200,5000000-10000000,2999,english;french;german
+265890,Subnautica,Unknown Worlds Entertainment,Unknown Worlds Entertainment,windows;mac,0,Single-player,Action;Adventure;Indie,Survival;Underwater;Exploration,13,567890,23456,7800,5200,10000000-20000000,2999,english
+646570,Slay the Spire,MegaCrit,Humble Bundle,windows;mac;linux,0,Single-player,Strategy;Indie,Roguelike;Card Game;Indie,23,456789,12345,6700,4500,5000000-10000000,2499,english
+1145360,Hades,Supergiant Games,Supergiant Games,windows;mac;linux,0,Single-player,Action;RPG;Indie,Rogue-like;Action RPG;Indie,49,689012,10234,6700,4500,5000000-10000000,2499,english
+242760,The Forest,Endnight Games Ltd,Endnight Games Ltd,windows,16,Single-player;Multi-player,Action;Adventure;Indie,Survival;Horror;Open World,48,456789,23456,7800,4500,10000000-20000000,1699,english
+238960,Path of Exile,Grinding Gear Games,Grinding Gear Games,windows;mac;linux,0,Multi-player;Online Multi-Player,Action;Free to Play,ARPG;Free to Play;Dark Fantasy,520,345678,89012,9800,5600,20000000-50000000,0,english
+730,Monster Hunter: World,CAPCOM Co. Ltd.,CAPCOM Co. Ltd.,windows,15,Single-player;Multi-player,Action;RPG,Action RPG;Co-op;Hunting,43,456789,45678,7800,5200,5000000-10000000,3299,english
+774171,Monster Hunter: World,CAPCOM Co. Ltd.,CAPCOM Co. Ltd.,windows,15,Single-player;Multi-player,Action;RPG,Action RPG;Co-op;Hunting,43,456789,45678,7800,5200,5000000-10000000,3299,english
+233430,Kerbal Space Program,Squad,Private Division,windows;mac;linux,0,Single-player,Simulation;Strategy;Indie,Space;Simulation;Physics,93,456789,23456,12000,7800,5000000-10000000,3999,english
+394360,Hearts of Iron IV,Paradox Development Studio,Paradox Interactive,windows;mac;linux,0,Single-player;Multi-player,Strategy,Grand Strategy;WWII;Historical,97,345678,67890,15000,9800,5000000-10000000,4099,english
+359870,DiRT Rally 2.0,Codemasters,Codemasters,windows,0,Single-player;Multi-player,Racing;Sports,Racing;Simulation;Driving,43,234567,45678,7800,5200,2000000-5000000,4199,english
+108600,Project Zomboid,The Indie Stone,The Indie Stone,windows;mac;linux,0,Single-player;Multi-player,Action;Adventure;Indie,Survival;Zombie;Open World,0,345678,34567,10500,6700,5000000-10000000,1699,english
+1085660,No Man's Sky,Hello Games,Hello Games,windows,0,Single-player;Multi-player,Action;Adventure;Indie,Space;Survival;Exploration,64,456789,89012,8900,5600,5000000-10000000,5999,english
+377160,Fallout 4,Bethesda Game Studios,Bethesda Softworks,windows,18,Single-player,Action;RPG,RPG;Post-apocalyptic;Open World,84,345678,89012,7800,5200,10000000-20000000,3999,english
+4000,Garry's Mod,Facepunch Studios,Valve,windows;mac;linux,0,Multi-player;Single-player,Indie;Simulation,Sandbox;Moddable;Casual,100,567890,34567,9800,6700,20000000-50000000,999,english
+1517290,Battlefield 2042,DICE,Electronic Arts,windows,18,Multi-player;Online Multi-Player,Action,FPS;Multiplayer;Military,0,89012,134567,3400,2300,2000000-5000000,5999,english
+814380,Sekiro: Shadows Die Twice,FromSoftware,Activision,windows,17,Single-player,Action;Adventure,Action;Souls-like;Japan,35,456789,34567,6700,4500,5000000-10000000,4699,english
+1237970,Titanfall 2,Respawn Entertainment,Electronic Arts,windows,16,Single-player;Multi-player,Action,FPS;Multiplayer;Campaign,33,456789,12345,5600,3400,5000000-10000000,999,english
+70,Half-Life,Valve,Valve,windows,0,Single-player;Multi-player,Action,Classic;FPS;Masterpiece,52,345678,12345,4500,3400,5000000-10000000,799,english
+440900,Vampire Survivors,poncle,poncle,windows;mac,0,Single-player,Action;Indie,Rogue-like;Bullet Hell;Indie,46,567890,10234,5600,3400,10000000-20000000,399,english
+814760,Cuphead,Studio MDHR Entertainment Inc.,Studio MDHR Entertainment Inc.,windows;mac,0,Single-player;Multi-player,Action;Adventure;Indie,Difficult;Platformer;Co-op,30,456789,23456,5600,3400,5000000-10000000,2399,english
+1659420,Lethal Company,Zeekerss,Zeekerss,windows,0,Multi-player,Action;Indie,Co-op;Horror;Indie,0,456789,23456,4500,2300,5000000-10000000,999,english
+1623730,Palworld,Pocketpair,Pocketpair,windows,0,Single-player;Multi-player,Action;Adventure;Indie,Survival;Crafting;Open World,0,345678,89012,6700,4500,10000000-20000000,2999,english
+1091500,Disco Elysium - The Final Cut,ZA/UM,ZA/UM,windows;mac;linux,18,Single-player,RPG;Adventure,Indie;RPG;Narrative,19,456789,23456,6700,4500,2000000-5000000,3999,english;russian;german
+292120,Among Us,Innersloth,Innersloth,windows;mac;linux,0,Multi-player;Online Multi-Player,Action;Adventure;Casual,Party;Social Deduction;Casual,0,345678,89012,3400,2300,20000000-50000000,499,english;spanish;portuguese
+431960,Wallpaper Engine,Kristjan Skutta,Kristjan Skutta,windows,0,Single-player,Utilities;Casual,Customization;Utilities;Creative,0,890123,23456,34000,20000,50000000-100000000,399,english
+1551360,Forza Horizon 5,Turn 10 Studios,Xbox Game Studios,windows,0,Single-player;Multi-player,Racing;Sports,Racing;Open World;Driving,100,456789,34567,7800,5200,5000000-10000000,5999,english
+1203220,NARAKA: BLADEPOINT,24 Entertainment,NetEase Games,windows,16,Multi-player;Online Multi-Player,Action,Battle Royale;Multiplayer;Martial Arts,36,234567,123456,4500,2300,5000000-10000000,2999,english
+632360,Risk of Rain 2,Hopoo Games,Gearbox Publishing,windows;mac;linux,0,Single-player;Multi-player,Action;Indie,Rogue-like;Third-person Shooter;Co-op,100,456789,12345,5600,3400,5000000-10000000,2499,english
+322330,Don't Starve Together,Klei Entertainment,Klei Entertainment,windows;mac;linux,0,Multi-player;Online Multi-Player,Action;Adventure;Indie,Survival;Co-op;Indie,68,456789,23456,7800,5200,10000000-20000000,1499,english
+1426210,It Takes Two,Hazelight Studios,Electronic Arts,windows,12,Multi-player,Action;Adventure,Co-op;Platformer;Story Rich,40,456789,10234,5600,3400,5000000-10000000,4099,english
+1184480,A Plague Tale: Innocence,Asobo Studio,Focus Entertainment,windows,18,Single-player,Action;Adventure,Story Rich;Stealth;Historical,37,345678,23456,5600,3400,2000000-5000000,3999,english;french
+814380,Ori and the Will of the Wisps,Moon Studios GmbH,Xbox Game Studios,windows,0,Single-player,Action;Adventure;Indie,Platformer;Beautiful;Indie,40,456789,10234,5600,3400,2000000-5000000,2399,english
+1016670,Death Stranding,Kojima Productions,505 Games,windows,17,Single-player,Action;Adventure,Story Rich;Post-apocalyptic;Walking Simulator,62,234567,89012,7800,5200,2000000-5000000,5999,english
+883710,Outer Wilds,Mobius Digital,Annapurna Interactive,windows;xbox,0,Single-player,Action;Adventure;Indie,Mystery;Space;Exploration,18,456789,12345,5600,3400,2000000-5000000,2499,english
+1422450,Dead Space (2023),Motive Studio,Electronic Arts,windows,18,Single-player,Action;Adventure,Horror;Sci-Fi;Remake,42,234567,34567,5600,3400,2000000-5000000,5999,english
+1195970,Muck,DaniDev,DaniDev,windows,0,Single-player;Multi-player,Action;Adventure;Indie,Survival;Free to Play;Indie,0,234567,23456,4500,2300,5000000-10000000,0,english
+976730,Halo Infinite,343 Industries,Xbox Game Studios,windows,17,Multi-player;Online Multi-Player,Action,FPS;Free to Play;Multiplayer,45,234567,89012,4500,2300,5000000-10000000,0,english
+990080,Valheim,Iron Gate AB,Coffee Stain Publishing,windows,0,Single-player;Multi-player,Action;Adventure;Indie,Viking;Survival;Exploration,21,678901,34567,9800,6700,10000000-20000000,2699,english
+1086940,Baldur's Gate 3,Larian Studios,Larian Studios,windows;mac,18,Single-player;Multi-player,RPG;Adventure,RPG;Turn-Based;Fantasy,76,890123,23456,9800,6700,10000000-20000000,6099,english;german;french
+1091500,Lies of P,Round8 Studio,Neowiz,windows,17,Single-player,Action;RPG,Souls-like;Action RPG;Dark Fantasy,30,234567,23456,5600,3400,2000000-5000000,5999,english
+1240440,Hades II,Supergiant Games,Supergiant Games,windows;mac,0,Single-player,Action;RPG;Indie,Rogue-like;Early Access;Indie,0,234567,10234,4500,2300,2000000-5000000,2799,english
+1151640,Crusader Kings III,Paradox Development Studio,Paradox Interactive,windows;mac;linux,0,Single-player;Multi-player,Strategy;Simulation,Grand Strategy;Medieval;Dynasty,43,345678,34567,12000,7800,5000000-10000000,4999,english
+292030,Assassin's Creed Odyssey,Ubisoft Quebec,Ubisoft,windows,18,Single-player,Action;RPG;Adventure,Open World;Ancient Greece;Mythology,50,234567,67890,7800,5200,5000000-10000000,5999,english
+275850,No Man's Sky,Hello Games,Hello Games,windows;mac;linux,0,Single-player;Multi-player,Action;Adventure;Indie,Space;Survival;Exploration,64,567890,89012,8900,5600,5000000-10000000,5999,english
+1222730,Battle Brothers,Overhype Studios,Overhype Studios,windows;mac;linux,0,Single-player,Strategy;RPG;Indie,Turn-Based;Tactics;Dark Fantasy,10,234567,10234,7800,5200,2000000-5000000,2999,english
+1086540,Wartales,Shiro Games,Shiro Games,windows,0,Single-player;Multi-player,RPG;Strategy;Adventure,Turn-Based;Open World;Medieval,0,234567,23456,6700,4500,2000000-5000000,3499,english
+1326470,Ghostrunner,One More Level,505 Games,windows,14,Single-player,Action;Indie,Cyberpunk;Parkour;Difficult,15,234567,12345,3400,2300,2000000-5000000,2999,english
+365590,SOMA,Frictional Games,Frictional Games,windows;mac;linux,18,Single-player,Adventure;Horror;Indie,Sci-Fi;Horror;Story Rich,41,234567,10234,4500,2300,2000000-5000000,1699,english
+239140,Dying Light,Techland,Techland,windows,18,Single-player;Multi-player,Action;RPG,Survival;Open World;Zombie,47,456789,34567,7800,5200,10000000-20000000,2999,english
+553850,HELLDIVERS 2,Arrowhead Game Studios,Sony Interactive Entertainment,windows,18,Multi-player;Online Multi-Player,Action,Co-op;Shooter;Third-person,68,678901,23456,5600,3400,10000000-20000000,4099,english;german;french
+1818750,Hi-Fi Rush,Tango Gameworks,Bethesda Softworks,windows,12,Single-player,Action;Adventure,Rhythm;Combat;Stylized,57,345678,10234,4500,2300,2000000-5000000,2999,english
+1985790,Starfield,Bethesda Game Studios,Bethesda Softworks,windows,18,Single-player,Action;RPG;Adventure,Sci-Fi;Space;Open World,100,234567,89012,7800,5200,5000000-10000000,7999,english
+2215943,Dave the Diver,MINTROCKET,MINTROCKET,windows,0,Single-player,Action;Adventure;RPG,Indie;Casual;Fishing,31,456789,12345,5600,3400,2000000-5000000,1999,english
+2379780,"Warhammer 40,000: Space Marine 2",Saber Interactive,Focus Entertainment,windows,18,Single-player;Multi-player,Action,Co-op;Third-person Shooter;Warhammer,45,456789,23456,4500,2300,2000000-5000000,5999,english;french;german
+291550,Baba Is You,Hempuli Oy,Hempuli Oy,windows;mac;linux,0,Single-player,Puzzle;Indie,Puzzle;Indie;Mind-bending,60,234567,10234,4500,2300,2000000-5000000,1499,english
+264710,Subnautica: Below Zero,Unknown Worlds Entertainment,Unknown Worlds Entertainment,windows;mac,0,Single-player,Action;Adventure;Indie,Survival;Underwater;Exploration,18,234567,23456,5600,3400,2000000-5000000,2999,english
+1225165,Loop Hero,Four Quarters,Devolver Digital,windows;mac,0,Single-player,Strategy;RPG;Indie,Rogue-like;Auto-battler;Indie,0,234567,12345,4500,2300,2000000-5000000,1499,english
+1672870,Starship Troopers: Terran Command,The Aristocrats,Slitherine Ltd.,windows,12,Single-player,Strategy,RTS;Sci-Fi;Military,0,123456,23456,4500,2300,1000000-2000000,3699,english
+367520,What Remains of Edith Finch,Giant Sparrow,Annapurna Interactive,windows;mac,0,Single-player,Adventure,Story Rich;Atmospheric;Exploration,3,345678,10234,2300,1500,2000000-5000000,1499,english
+1527950,Cyberpunk 2077: Phantom Liberty,CD PROJEKT RED,CD PROJEKT RED,windows,18,Single-player,Action;RPG,Expansion;Cyberpunk;Story Rich,0,234567,23456,3400,2300,2000000-5000000,3399,english

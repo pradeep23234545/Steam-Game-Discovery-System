@@ -1,0 +1,202 @@
+You are a senior UI/UX designer and expert Python developer.
+
+Your task is to DESIGN and BUILD a complete, production-quality Streamlit web application based on the detailed specifications below.
+
+IMPORTANT:
+- Do NOT skip any feature
+- Do NOT simplify anything
+- Build a fully working, visually modern, responsive, and interactive app
+- Write CLEAN, modular, well-commented code
+- Follow modern UI/UX principles (spacing, alignment, hierarchy, color contrast)
+
+-----------------------------------
+🎯 PROJECT TYPE
+-----------------------------------
+- Build a SINGLE-PAGE interactive web app using Streamlit
+- This is a Steam Game Discovery Dashboard
+- It should feel like a modern web product (not a basic Streamlit app)
+
+-----------------------------------
+🎨 UI/UX DESIGN REQUIREMENTS
+-----------------------------------
+- Dark theme (premium gaming feel)
+- Gradient background
+- Glassmorphism-style cards
+- Smooth hover effects on buttons
+- Proper spacing and padding
+- Responsive layout using columns
+- Clean typography and hierarchy
+
+-----------------------------------
+⚙️ TECHNOLOGIES TO USE
+-----------------------------------
+- Python
+- Streamlit
+- Pandas
+- Plotly (express + graph_objects)
+- Scikit-learn (PCA)
+- urllib (for image validation)
+
+-----------------------------------
+📁 PROJECT STRUCTURE
+-----------------------------------
+- app.py (main file)
+- steam.csv (dataset)
+
+-----------------------------------
+🧠 CORE FEATURES TO IMPLEMENT
+-----------------------------------
+
+1. DATA LOADING
+- Load steam.csv
+- Keep only English games
+- Select relevant columns:
+  appid, name, genres, price, positive_ratings, negative_ratings, average_playtime
+- Convert price from string to numeric
+- Convert USD to INR (rate = 82)
+- Remove "Counter-Strike: Global Offensive"
+- Sort by positive ratings
+
+-----------------------------------
+
+2. SIDEBAR FILTERS
+- Genre filter (All + genres)
+- Player Style:
+  - Casual → low playtime
+  - Hardcore → high playtime
+  - Competitive → Multiplayer games
+  - Story Lover → Adventure games
+- Price range slider (INR)
+- Minimum positive ratings filter
+- Free-to-play checkbox
+- Sort by:
+  - Recommended
+  - Popularity
+  - Price
+  - Playtime
+- Search Game dropdown
+
+-----------------------------------
+
+3. GAME SECTIONS
+Create TABS:
+- Popular Games
+- Trending Games
+- Hidden Gems
+
+Logic:
+- Popular → highest positive ratings
+- Trending → 0.7 * ratings + 0.3 * playtime
+- Hidden Gems → high rating but low popularity
+
+Display:
+- Game image
+- Name
+- Price
+
+-----------------------------------
+
+4. GAME RECOMMENDATION SYSTEM
+- Add "Recommend" button
+- When clicked:
+  - Recommend top 5 similar games
+  - Use:
+    - Genre overlap
+    - Rating score
+    - Price factor
+
+Each recommendation must show:
+- Image
+- Name
+- Genre
+- Rating %
+- Price
+- Match score
+
+-----------------------------------
+
+5. AI-STYLE GAME DESCRIPTION
+- Generate a dynamic description using:
+  - Genre
+  - Ratings
+  - Playtime
+
+-----------------------------------
+
+6. GAME DNA CHART (Radar Chart)
+Categories:
+- Action
+- Adventure
+- RPG
+- Strategy
+- Multiplayer
+
+If genre exists → 1
+Else → 0.2
+
+Use Plotly graph_objects
+
+-----------------------------------
+
+7. GAME SIMILARITY MAP
+- Create feature vectors:
+  - Genre flags (Action, RPG, etc.)
+  - Normalized rating
+  - Price
+  - Playtime
+- Use PCA to reduce to 2D
+- Plot scatter chart
+
+-----------------------------------
+
+8. COMPARE TWO GAMES
+- Two dropdowns
+- "Compare" button
+- Show table:
+  - Price
+  - Positive ratings
+  - Average playtime
+
+-----------------------------------
+
+9. DATA VISUALIZATION DASHBOARD
+- Price distribution histogram
+- Ratings distribution histogram
+- Scatter plot (price vs ratings)
+
+-----------------------------------
+
+10. IMAGE HANDLING
+- Fetch Steam images using appid
+- Validate using urllib
+- Use fallback placeholder if image fails
+
+-----------------------------------
+
+11. PERFORMANCE
+- Use caching (st.cache_data)
+- Use lru_cache where needed
+
+-----------------------------------
+
+12. FINAL OUTPUT REQUIREMENTS
+-----------------------------------
+- Provide COMPLETE app.py code
+- Add clear comments
+- Ensure code runs without errors
+- Make UI look premium (not basic Streamlit)
+
+-----------------------------------
+
+BONUS (VERY IMPORTANT)
+-----------------------------------
+- Improve UI beyond basic requirements
+- Add icons/emojis where suitable
+- Add section headings and separators
+- Make it feel like a real product
+
+-----------------------------------
+
+GOAL:
+-----------------------------------
+The final result should look like a professional Steam analytics and recommendation platform built by a senior developer and designer.
