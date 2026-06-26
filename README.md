@@ -1,4 +1,5 @@
 # 🎮 Steam Game Discovery System
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An interactive **Streamlit-based game recommendation and analytics dashboard** designed to help users discover Steam games based on their preferences. The application combines filtering, recommendation techniques, comparison tools, and visual analytics to provide an engaging game exploration experience.
 
@@ -221,6 +222,12 @@ Aspiring Developer passionate about Python, data-driven applications, and creati
 
 ---
 
+---
+
 ## 📄 License
 
-This project is intended for educational and learning purposes. Feel free to explore, learn from, and enhance it.
+This project is licensed under the MIT License.
+
+See the [LICENSE](LICENSE) file for more information.
+
+© 2026 Pradeep Yedage
