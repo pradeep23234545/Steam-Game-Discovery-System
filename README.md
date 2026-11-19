@@ -111,15 +111,10 @@ Visualizations include:
 ## 📂 Project Structure
 
 ```text
-Game Recommendation System/
+Steam-Game-Discovery-System/
 ├── app.py                 # Main Streamlit application
-├── main.py
 ├── steam.csv              # Steam dataset
-├── .streamlit/
-├── artifacts/
-├── attached_assets/
-├── lib/
-├── scripts/
+├── .streamlit/            # Streamlit theme config
 ├── requirements.txt
 ├── pyproject.toml
 └── README.md
@@ -132,13 +127,13 @@ Game Recommendation System/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Game-Recommendation-System.git
+git clone https://github.com/pradeep23234545/Steam-Game-Discovery-System.git
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd Game-Recommendation-System
+cd Steam-Game-Discovery-System
 ```
 
 ### 3. Install Dependencies

@@ -689,7 +689,7 @@ wheels = [
 ]
 
 [[package]]
-name = "repl-nix-workspace"
+name = "steam-game-discovery-system"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

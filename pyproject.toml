@@ -1,7 +1,7 @@
 [project]
-name = "repl-nix-workspace"
+name = "steam-game-discovery-system"
 version = "0.1.0"
-description = "Add your description here"
+description = "Streamlit dashboard for discovering and comparing Steam games"
 requires-python = ">=3.11"
 dependencies = [
     "numpy>=2.4.4",
